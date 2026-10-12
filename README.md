@@ -1,4 +1,4 @@
-# DATN-Conference-organization
+# Conference-organization
 ### How to install
 Insatall UV package manager:  docs.astral.sh/uv/getting-started/installation/
 
